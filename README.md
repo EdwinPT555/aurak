@@ -1,3 +1,3 @@
-# Getting Started with Create React App
+# Aurak 👇
 
 go to DEMO [AURAK](https://aurak.netlify.app/).
